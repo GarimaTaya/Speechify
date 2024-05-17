@@ -20,7 +20,7 @@ Speechify is a simple web application that converts text to speech using the Web
   To run this project locally, follow these steps:
 
   1. Clone the repositry:
-     https://github.com/bradtraversy/type-n-speak.git/
+     https://github.com/GarimaTaya/Speechify.git
 
   2. Naviagate to the folder:
      cd type-n-speak
